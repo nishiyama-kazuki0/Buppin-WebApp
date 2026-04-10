@@ -86,3 +86,4 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\SharedModels\obj\Release\net8.0\refint\SharedModels.dll
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\SharedModels\obj\Release\net8.0\SharedModels.pdb
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\SharedModels\obj\Release\net8.0\ref\SharedModels.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\SharedModels\obj\Release\net8.0\SharedModels.sourcelink.json

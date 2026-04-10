@@ -1757,8 +1757,6 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.csproj.Fody.CopyLocal.cache
-C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.csproj.Fody.RuntimeCopyLocal.cache
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\jsmodules\jsmodules.build.manifest.json
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\scopedcss\bundle\ExpressionDBWebAPI.styles.css
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\staticwebassets.build.json
@@ -1777,3 +1775,5 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.pdb
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.genruntimeconfig.cache
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ref\ExpressionDBWebAPI.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\obj\Release\net8.0\ExpressionDBWebAPI.sourcelink.json
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBWebAPI\bin\Release\net8.0\Anotar.Serilog.dll

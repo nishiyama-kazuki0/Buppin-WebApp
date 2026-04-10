@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressionDBBlazorShared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b1a5436f9917e9ba7b6682c01d69b43fa3db4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0a33e7dbce6b8a93556eae4664e418818dac2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressionDBBlazorShared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressionDBBlazorShared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
