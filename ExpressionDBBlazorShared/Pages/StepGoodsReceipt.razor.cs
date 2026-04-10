@@ -94,7 +94,7 @@ namespace ExpressionDBBlazorShared.Pages
             
 
             // 初期処理呼び出し
-            await InitProcAsync();//
+            await InitProcAsync();
 
         }
 
