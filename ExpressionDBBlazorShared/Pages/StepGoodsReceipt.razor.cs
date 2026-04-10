@@ -209,10 +209,9 @@ namespace ExpressionDBBlazorShared.Pages
                         ComService!.ShowNotifyMessege(ToastType.Error, "入庫済", $"既に入庫済みの物品です");
 
                     }
-                    else
+                    else if(状態 == "出庫済")//今回一度出庫されていてももう一度入庫できるようにしている
                     {
-                        ComService!.ShowNotifyMessege(ToastType.Error, "未登録", $"登録されていない管理番号です");
-
+                        await OnChangePalletNo(管理番号);
                     }
 
 
@@ -432,10 +431,9 @@ namespace ExpressionDBBlazorShared.Pages
                     ComService!.ShowNotifyMessege(ToastType.Error, "入庫済", $"既に入庫済みの物品です");
                     model!.PalletNo = "";
                 }
-                else
+                else if (状態 == "出庫済")
                 {
-                    ComService!.ShowNotifyMessege(ToastType.Error, "未登録", $"登録されていない管理番号です");
-                    
+                    model!.PalletNo = 管理番号;
                 }
 
 

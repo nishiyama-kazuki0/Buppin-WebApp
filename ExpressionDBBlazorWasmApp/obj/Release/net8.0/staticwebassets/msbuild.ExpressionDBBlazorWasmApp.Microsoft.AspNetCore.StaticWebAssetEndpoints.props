@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\appsettings.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2wDXk9iEVKf7SpO4WxWw0Ilee8NrcBlivYoQSDIf/U8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"402"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222wDXk9iEVKf7SpO4WxWw0Ilee8NrcBlivYoQSDIf/U8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 06:53:50 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"402"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222wDXk9iEVKf7SpO4WxWw0Ilee8NrcBlivYoQSDIf/U8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 02:31:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="appsettings.pvf77j2o24.json">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\appsettings.json'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pvf77j2o24"},{"Name":"integrity","Value":"sha256-2wDXk9iEVKf7SpO4WxWw0Ilee8NrcBlivYoQSDIf/U8="},{"Name":"label","Value":"appsettings.json"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"402"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222wDXk9iEVKf7SpO4WxWw0Ilee8NrcBlivYoQSDIf/U8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 08 Apr 2026 06:53:50 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"402"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u00222wDXk9iEVKf7SpO4WxWw0Ilee8NrcBlivYoQSDIf/U8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 02:31:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="download.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\download.js'))</AssetFile>

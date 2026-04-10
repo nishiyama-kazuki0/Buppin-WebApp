@@ -176,13 +176,12 @@ namespace ExpressionDBBlazorShared.Pages
                     }
                     else if(状態 == "登録")
                     {
-                        ComService!.ShowNotifyMessege(ToastType.Error, "出庫済", $"既に入庫済みです");
+                        ComService!.ShowNotifyMessege(ToastType.Error, "未入庫", $"まだ入庫が完了していません");
                         
                     }
                     else if (状態 == "出庫済")
                     {
-                        ComService!.ShowNotifyMessege(ToastType.Error, "未入庫", $"まだ入庫が完了していません");
-                       
+                        await OnChangePalletNo(管理番号);
                     }
                     
 
@@ -339,8 +338,7 @@ namespace ExpressionDBBlazorShared.Pages
                 }
                 else if (状態 == "出庫済")
                 {
-                    ComService!.ShowNotifyMessege(ToastType.Error, "出庫済", $"既に入庫済みです");
-                    
+                    model!.PalletNo = 管理番号;
                 }
             }
             else

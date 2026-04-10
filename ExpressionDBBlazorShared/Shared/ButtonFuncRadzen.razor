@@ -61,6 +61,24 @@
             <div id="interactive" class="viewport"></div>
             <p class="text">カメラにバーコードを写してください。</p>
         </div>
+        <style>
+            /* Quagga のカメラ(video)がタッチを奪わないようにする */
+            #interactive video {
+                pointer-events: none;
+            }
+
+            /* ボタン群をカメラより前に出す（保険） */
+            .rz-stack, .rz-row {
+                position: relative;
+                z-index: 10;
+            }
+
+            /* カメラ画面 */
+            #interactive {
+                position: relative;
+                z-index: 1;
+            }
+        </style>
     </RadzenStack>
 </RadzenRow>
 

@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "m1d/rr09",
+  "version": "SVx/Upig",
   "assets": [
     {
       "hash": "sha256-v/EqpoqpDgYGkKY4Lrfh74X2XQNNuJqwDYctkUBesYw=",
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "_content/ExpressionDBBlazorShared/WMS_logo_home.jpg"
     },
     {
-      "hash": "sha256-GoW9lmu3IPRhG+mqQebTtxp9jExjr2bfBqr0Y9XRH+0=",
+      "hash": "sha256-oBqD3RX5tHf/vIG7VP1CZZlQueodxme3ZRkg+p6fvao=",
       "url": "_content/ExpressionDBBlazorShared/css/app.css"
     },
     {
@@ -310,19 +310,19 @@ self.assetsManifest = {
       "url": "_framework/ExcelNumberFormat.wasm"
     },
     {
-      "hash": "sha256-eLHwoQfH3ytti9ZACAAADyC2lcpPqDNSgaVlqyh2lXw=",
+      "hash": "sha256-zt9p1EhWg7ypF5ZWzIC9Mf72Mg3AaUOnJzXuti91ASc=",
       "url": "_framework/ExpressionDBBlazorShared.pdb"
     },
     {
-      "hash": "sha256-ywA9FILgJa/6IiYv2WKJ4KCOd10kQfmoYkDq3d8Nng0=",
+      "hash": "sha256-WICUgh4oaVKG3JMblaCzb88yHj+Jgiff0XU937sgBog=",
       "url": "_framework/ExpressionDBBlazorShared.wasm"
     },
     {
-      "hash": "sha256-wc0YrkaaHs4kCgs79EUABipUcIcBxD9/gp0vpspGR5s=",
+      "hash": "sha256-6Uk5bGEbIMrHHWJn69rhnli3M79yaEUxia+L1CQ0EOE=",
       "url": "_framework/ExpressionDBBlazorWasmApp.pdb"
     },
     {
-      "hash": "sha256-t7Grc9eM2pmuAqhoRrQZKqJoASkHOt7ZuQpz1xylMis=",
+      "hash": "sha256-Uo+CnODMRoP5uuJq69b5O4EQ7KMu6qmwwvlNosO70yE=",
       "url": "_framework/ExpressionDBBlazorWasmApp.wasm"
     },
     {
@@ -526,11 +526,11 @@ self.assetsManifest = {
       "url": "_framework/Radzen.Blazor.wasm"
     },
     {
-      "hash": "sha256-7ahXRQkjMsfi+fld+xxs6QmTavvy4t0581CT1xG/jZ4=",
+      "hash": "sha256-Cik4Cg2nkApQ8v4hL95mMv8OC7O4SBeYCLgiR2E9DpU=",
       "url": "_framework/SharedModels.pdb"
     },
     {
-      "hash": "sha256-lpUzVGNmOdnqA88L1bu7KZTF7frw0hXVKZzESTZoaDQ=",
+      "hash": "sha256-C9tc52bdRI/Z4juwZg7MyYPFeft+2rT9TumbPAWfZo0=",
       "url": "_framework/SharedModels.wasm"
     },
     {
@@ -1210,7 +1210,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-YZDXuS26cqjfl/Z/H8M+6ND5rKGbrNWSiuuRKACAycA=",
+      "hash": "sha256-3ZSDqmFn50n2hK8z8mMmJac6JC21dNjibQyJ4uGHCnI=",
       "url": "_framework/blazor.boot.json"
     },
     {

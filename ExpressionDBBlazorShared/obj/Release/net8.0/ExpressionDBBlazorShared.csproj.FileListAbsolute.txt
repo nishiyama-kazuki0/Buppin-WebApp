@@ -231,3 +231,4 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBBlazorShared\obj\Release\net8.0\refint\ExpressionDBBlazorShared.dll
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBBlazorShared\obj\Release\net8.0\ExpressionDBBlazorShared.pdb
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBBlazorShared\obj\Release\net8.0\ref\ExpressionDBBlazorShared.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\ExpressionDBBlazorShared\obj\Release\net8.0\ExpressionDBBlazorShared.sourcelink.json

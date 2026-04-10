@@ -86,3 +86,4 @@ C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\B
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\AspireServiceDefaults\obj\Release\net8.0\refint\AspireServiceDefaults.dll
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.pdb
 C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\AspireServiceDefaults\obj\Release\net8.0\ref\AspireServiceDefaults.dll
+C:\Users\G2507\OneDrive - 株式会社立花エレテック\ドキュメント\Buppin-WebApp\AspireServiceDefaults\obj\Release\net8.0\AspireServiceDefaults.sourcelink.json

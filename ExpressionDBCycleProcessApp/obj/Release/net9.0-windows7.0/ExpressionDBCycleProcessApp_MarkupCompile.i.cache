@@ -16,5 +16,5 @@ TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_
 2551438516934
 Views\MainWindow.xaml;Views\UcCBit.xaml;Views\UcCDword.xaml;Views\UcCommunicationArea.xaml;Views\UcCommunicationArea2.xaml;Views\UcCWord.xaml;Views\UcJudgeItem.xaml;Views\UcMain.xaml;Views\UcSequenceActions.xaml;Views\UcSequenceActionTree.xaml;Views\UcSequenceActionTree2.xaml;Views\UcSequenceStep.xaml;Views\UcSequenceStepHistories.xaml;Views\UcSequenceSteps.xaml;Views\UcStartSequence.xaml;
 
-True
+False
 
