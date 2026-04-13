@@ -142,3 +142,29 @@ Quagga.onProcessed((data) => {
     }
 });
 
+
+//window.startQuagga = () => {
+//    Quagga.init({
+//        inputStream: {
+//            type: "LiveStream",
+//            target: document.querySelector('#interactive'),
+//            constraints: {
+//                facingMode: "environment"
+//            }
+//        },
+//        decoder: {
+//            readers: ["code_128_reader", "ean_reader", "qr_reader"]
+//        }
+//    }, function (err) {
+//        if (!err) {
+//            Quagga.start();
+//        }
+//    });
+//};
+
+//window.stopQuagga = () => {
+//    if (window.Quagga) {
+//        Quagga.stop();
+//    }
+//};
+

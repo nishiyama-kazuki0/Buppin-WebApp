@@ -115,7 +115,7 @@ internal class CameraScannerService : IScannerService
         try
         {
             result = await JS.InvokeAsync<int>("QuaggaStartRead", "scanCallbackFunction");
-            await JS.InvokeVoidAsync("disableQuaggaTouch");
+        
         }
         catch (Exception)
         {

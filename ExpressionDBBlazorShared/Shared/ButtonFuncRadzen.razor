@@ -60,9 +60,29 @@
         <div id="modal" class="modal">
             <div id="interactive" class="viewport"></div>
             <p class="text">カメラにバーコードを写してください。</p>
+            <button class="camera-close" @onclick="CancelScan">
+                ×
+            </button>
         </div>
+
+
+        
      
     </RadzenStack>
 </RadzenRow>
+
+@code {
+   
+    //2026/4/13　西山追加
+    //カメラ起動時他のファンクションボタンが押せなかったのでカメラキャンセルボタンを追加
+    async Task CancelScan()
+    {
+        await JS.InvokeVoidAsync("QuagaStopRead");
+        
+    }
+
+
+}
+
 
 

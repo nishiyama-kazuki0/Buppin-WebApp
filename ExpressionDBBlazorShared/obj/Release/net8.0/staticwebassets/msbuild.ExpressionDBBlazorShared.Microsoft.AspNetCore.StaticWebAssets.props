@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>shu03uzk05</Fingerprint>
-      <Integrity>oBqD3RX5tHf/vIG7VP1CZZlQueodxme3ZRkg+p6fvao=</Integrity>
+      <Fingerprint>bh6vdcl3hp</Fingerprint>
+      <Integrity>ceBAyCAQhWyTnvlPp4HJ1zzz5o7rL45vAXI1Kjhbw54=</Integrity>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -336,8 +336,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m3tjyro0s5</Fingerprint>
-      <Integrity>EkjOvphbeIYFJqmaWhTQ8m0FulvUdXk4Ohk0LyM2dCM=</Integrity>
+      <Fingerprint>huih4skvbq</Fingerprint>
+      <Integrity>VxIZaEqzDqTz64sSn09BJbvr3hDXQ9eZadt6Xg4vj7Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\quagga-script.js'))</OriginalItemSpec>

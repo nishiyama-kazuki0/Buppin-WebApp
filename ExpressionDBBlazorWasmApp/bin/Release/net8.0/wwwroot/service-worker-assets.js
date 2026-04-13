@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "IP0Z9i0r",
+  "version": "lrMsb1jb",
   "assets": [
     {
       "hash": "sha256-v/EqpoqpDgYGkKY4Lrfh74X2XQNNuJqwDYctkUBesYw=",
@@ -18,7 +18,7 @@ self.assetsManifest = {
       "url": "_content/ExpressionDBBlazorShared/WMS_logo_home.jpg"
     },
     {
-      "hash": "sha256-oBqD3RX5tHf/vIG7VP1CZZlQueodxme3ZRkg+p6fvao=",
+      "hash": "sha256-ceBAyCAQhWyTnvlPp4HJ1zzz5o7rL45vAXI1Kjhbw54=",
       "url": "_content/ExpressionDBBlazorShared/css/app.css"
     },
     {
@@ -90,7 +90,7 @@ self.assetsManifest = {
       "url": "_content/ExpressionDBBlazorShared/js/keydown-script.js"
     },
     {
-      "hash": "sha256-EkjOvphbeIYFJqmaWhTQ8m0FulvUdXk4Ohk0LyM2dCM=",
+      "hash": "sha256-VxIZaEqzDqTz64sSn09BJbvr3hDXQ9eZadt6Xg4vj7Q=",
       "url": "_content/ExpressionDBBlazorShared/js/quagga-script.js"
     },
     {
@@ -310,19 +310,19 @@ self.assetsManifest = {
       "url": "_framework/ExcelNumberFormat.wasm"
     },
     {
-      "hash": "sha256-RC+YWRmDlmsRd64mbxRsK5i+yN3BYjHMSD2JqlN+mi8=",
+      "hash": "sha256-65DwJyS+apYvTZ/T2qgX1JdberHfB67FC5uMVsRYSHQ=",
       "url": "_framework/ExpressionDBBlazorShared.pdb"
     },
     {
-      "hash": "sha256-CcbQHwLRV4yN3yxGEpV5NwX7/pIDTleJMWju9vHKgIk=",
+      "hash": "sha256-TGIVtefARIt06ijlvs3oXhYkBm+NQ5Qo17xZgue/k20=",
       "url": "_framework/ExpressionDBBlazorShared.wasm"
     },
     {
-      "hash": "sha256-GM9BR2HpNe9b5pQARouO3fc4gzLOB3dJPsC0Ddz46ME=",
+      "hash": "sha256-z+bXAzd9/Km4jDlbTOQdXmj1WN4gPXvHSDc593SoMg4=",
       "url": "_framework/ExpressionDBBlazorWasmApp.pdb"
     },
     {
-      "hash": "sha256-P/ANyHIKnGFtRJbw1wJTvaiM9z3F2/2ei1q4tY7Utts=",
+      "hash": "sha256-WZcYbS2Hx++riZ05xWlw9/Tr0Tdmin0LEvK5f9DJYUA=",
       "url": "_framework/ExpressionDBBlazorWasmApp.wasm"
     },
     {
@@ -1210,7 +1210,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-hzlpv2t4hpmJEiz+76n/XGAYP0ECqsjNV8P59vrXJZk=",
+      "hash": "sha256-9VY5NwqcpFsH2L6ZNlfi5PtW3SNZl4yCyY4DHnefhOk=",
       "url": "_framework/blazor.boot.json"
     },
     {

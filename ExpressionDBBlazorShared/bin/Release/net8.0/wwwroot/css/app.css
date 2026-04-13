@@ -209,3 +209,32 @@ video, canvas {
     color: #fff;
     text-align: center;
 }
+
+
+/*2026/4/13/　西山追加　*/
+/*カメラ起動しら他のファンクションボタンが押せなかったのでキャンセルボタン追加*/
+#interactive video,
+#interactive canvas {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none; /* ← これ重要 */
+}
+
+/* ×ボタン */
+.camera-close {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    z-index: 200;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    cursor: pointer;
+}
