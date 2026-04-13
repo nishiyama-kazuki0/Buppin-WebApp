@@ -281,8 +281,7 @@ namespace ExpressionDBBlazorShared.Pages
                         {
                             //現在棚卸している棚を移動先棚の変数として使う
                             model!.元棚 = ShelfID;
-                            model!.移動先棚 = model!.棚番;
-                         
+                            
                             //この処理も上記と一緒
                             Attributes[STR_ATTRIBUTE_FUNC]["button6text"] = "";
                             Attributes[STR_ATTRIBUTE_FUNC]["IconName6"] = "eraser_size1";

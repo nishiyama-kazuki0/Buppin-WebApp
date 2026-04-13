@@ -7,20 +7,98 @@
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\shared\\buttonfuncradzen.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBBlazorWasmApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorwasmapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|solutionrelative:expressiondbblazorwasmapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\shared\\childpagebase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\shared\\childpagebase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorwasmapp\\properties\\publishprofiles\\folderprofile10.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|solutionrelative:expressiondbblazorwasmapp\\properties\\publishprofiles\\folderprofile10.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepgoodsreceipt.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepgoodsreceipt.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemregistration.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemregistration.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\shared\\stepitembase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\shared\\stepitembase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepshelflocation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepshelflocation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepshelfselection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepshelfselection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepshelfselection.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepshelfselection.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepinventorywork.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepinventorywork.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stockstotalling.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stockstotalling.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G2507\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepinventorywork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepinventorywork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\camerascannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\services\\camerascannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\htservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\services\\htservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\camerascannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\services\\camerascannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\shared\\childpagebase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\shared\\childpagebase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorwasmapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFADD3C1-9A38-4931-974F-44C4C762A70C}|ExpressionDBBlazorWasmApp\\ExpressionDBBlazorWasmApp.csproj|solutionrelative:expressiondbblazorwasmapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbcycleprocessapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|solutionrelative:expressiondbcycleprocessapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbcycleprocessapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|solutionrelative:expressiondbcycleprocessapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemdispatch.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemdispatch.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepgoodsreceipt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepgoodsreceipt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\keyencescannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +125,6 @@
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\wwwroot\\js\\scan-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\scannerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\services\\scannerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,16 +145,8 @@
       "RelativeMoniker": "D:0:0:{DE77D4A8-A79B-413D-B47F-CD3CCB3F13DD}|ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj|solutionrelative:expressiondbwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemregistration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\shared\\compdropdowndatagrid.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\shared\\compdropdowndatagrid.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\services\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE77D4A8-A79B-413D-B47F-CD3CCB3F13DD}|ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbwebapi\\expressiondbwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -95,35 +161,8 @@
       "RelativeMoniker": "D:0:0:{24D393E1-46D1-4A95-AB33-AF66C8886DAC}|AspireAppHost\\AspireAppHost.csproj|solutionrelative:aspireapphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemdispatch.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemdispatch.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemdispatch.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemdispatch.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepgoodsreceipt.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepgoodsreceipt.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepgoodsreceipt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepgoodsreceipt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepitemregistration.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepitemregistration.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepinventorywork.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepinventorywork.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbblazorshared\\pages\\stepinventorywork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F05791F4-6DB4-4E16-85D5-3A3FD33DFC33}|ExpressionDBBlazorShared\\ExpressionDBBlazorShared.csproj|solutionrelative:expressiondbblazorshared\\pages\\stepinventorywork.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\G2507\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A591BB41-394D-490C-B04A-EAEC5BE170B7}|ExpressionDBCycleProcessApp\\ExpressionDBCycleProcessApp.csproj|c:\\users\\g2507\\onedrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\buppin-webapp\\expressiondbcycleprocessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,12 +185,133 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1697,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 1516,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBBlazorWasmApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBBlazorWasmApp\\Program.cs",
+              "ToolTip": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBBlazorWasmApp\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBBlazorWasmApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T00:29:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FolderProfile10.pubxml",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorWasmApp\\Properties\\PublishProfiles\\FolderProfile10.pubxml",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorWasmApp\\Properties\\PublishProfiles\\FolderProfile10.pubxml",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorWasmApp\\Properties\\PublishProfiles\\FolderProfile10.pubxml",
+              "RelativeToolTip": "ExpressionDBBlazorWasmApp\\Properties\\PublishProfiles\\FolderProfile10.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-10T08:38:17.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StocksTotalling.razor",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StocksTotalling.razor",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StocksTotalling.razor",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StocksTotalling.razor",
+              "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StocksTotalling.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T08:17:50.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StepShelfLocation.razor",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepShelfLocation.razor",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepShelfLocation.razor",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepShelfLocation.razor",
+              "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepShelfLocation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T08:17:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StepItemBase.razor.cs",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Shared\\StepItemBase.razor.cs",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Shared\\StepItemBase.razor.cs",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Shared\\StepItemBase.razor.cs",
+              "RelativeToolTip": "ExpressionDBBlazorShared\\Shared\\StepItemBase.razor.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:14:02.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StepShelfSelection.razor.cs",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor.cs",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor.cs",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor.cs",
+              "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwIsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T08:11:49.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StepShelfSelection.razor",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor",
+              "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepShelfSelection.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-10T08:11:30.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorWasmApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExpressionDBBlazorWasmApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorWasmApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExpressionDBBlazorWasmApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T07:37:31.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBCycleProcessApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpressionDBCycleProcessApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBCycleProcessApp\\appsettings.json",
+              "RelativeToolTip": "ExpressionDBCycleProcessApp\\appsettings.json",
+              "ViewState": "AgIAALQAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T07:35:18.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBCycleProcessApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExpressionDBCycleProcessApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBCycleProcessApp\\appsettings.Development.json",
+              "RelativeToolTip": "ExpressionDBCycleProcessApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T07:35:17.963Z"
             },
             {
               "$type": "Document",
@@ -161,14 +321,14 @@
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Shared\\ButtonFuncRadzen.razor",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Shared\\ButtonFuncRadzen.razor",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Shared\\ButtonFuncRadzen.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAD0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-10T04:00:14.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "radzen_override.css",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
@@ -176,12 +336,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\css\\radzen_override.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-10T03:57:35.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T03:57:35.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 29,
               "Title": "mat_app.css",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
@@ -189,12 +348,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\css\\mat_app.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-10T03:57:32.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T03:57:32.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "favicon.ico - Icon [32x32, 32 \u30D3\u30C3\u30C8, BMP]",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\favicon.ico",
@@ -206,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "scan-script.js",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
@@ -214,12 +372,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\js\\scan-script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-10T03:54:23.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T03:54:23.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
               "Title": "ScannerFactory.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\ScannerFactory.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\ScannerFactory.cs",
@@ -227,12 +384,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\ScannerFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T03:47:41.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T03:47:41.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 32,
               "Title": "bootstrap.min.css.map",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
@@ -240,12 +396,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwAAAAAB/YQYAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-10T03:43:23.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T03:43:23.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -253,12 +408,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABmXQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-10T02:50:18.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T02:50:18.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 26,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
@@ -266,12 +420,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\css\\app.css",
               "ViewState": "AgIAAKYAAAAAAAAAAAAewL4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-10T02:49:13.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T02:49:13.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "quagga-script.js",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
@@ -279,38 +432,35 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\wwwroot\\js\\quagga-script.js",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-10T02:44:29.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T02:44:29.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "HtService.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\HtService.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\HtService.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\HtService.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\HtService.cs",
-              "ViewState": "AgIAAPkAAAAAAAAAAIA0wPsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAhwPkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:35:22.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:35:22.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 5,
               "Title": "CommonService.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\CommonService.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\CommonService.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\CommonService.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\CommonService.cs",
-              "ViewState": "AgIAACYBAAAAAAAAAA+ywGYCAADSAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAANkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:30:57.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:30:57.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 25,
               "Title": "KeyenceScannerService.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\KeyenceScannerService.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\KeyenceScannerService.cs",
@@ -318,12 +468,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\KeyenceScannerService.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAlwH8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:30:57.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:30:57.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 34,
               "Title": "DensoWaveScannerService.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\DensoWaveScannerService.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\DensoWaveScannerService.cs",
@@ -331,25 +480,23 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\DensoWaveScannerService.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAewIEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:30:57.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:30:57.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "ChildPageBase.razor.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Shared\\ChildPageBase.razor.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Shared\\ChildPageBase.razor.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Shared\\ChildPageBase.razor.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Shared\\ChildPageBase.razor.cs",
-              "ViewState": "AgIAAP4HAAAAAAAAAAApwA8IAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEIAAAAAAAAAAA5wAoIAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:30:57.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:30:57.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "IScannerService.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\IScannerService.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\IScannerService.cs",
@@ -357,21 +504,19 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\IScannerService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAADgvzUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:36:49.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:36:49.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "CameraScannerService.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\CameraScannerService.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Services\\CameraScannerService.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Services\\CameraScannerService.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Services\\CameraScannerService.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAMwHgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:30:04.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:30:04.75Z"
             },
             {
               "$type": "Document",
@@ -381,14 +526,13 @@
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepItemDispatch.razor.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepItemDispatch.razor.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepItemDispatch.razor.cs",
-              "ViewState": "AgIAAB0BAAAAAAAAAAAAAB8BAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8BAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T01:24:15.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:24:15.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 40,
               "Title": "StepItemDispatch.razor",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepItemDispatch.razor",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepItemDispatch.razor",
@@ -396,87 +540,84 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepItemDispatch.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T01:24:11.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:24:11.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 6,
               "Title": "StepGoodsReceipt.razor.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor.cs",
-              "ViewState": "AgIAAJwBAAAAAAAAAADwv7MBAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAWwA4BAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T05:25:35.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T05:25:35.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 7,
               "Title": "StepItemRegistration.razor.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor.cs",
-              "ViewState": "AgIAADoBAAAAAAAAAAAqwO4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANABAAAAAAAAAAAWwOcBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T05:25:16.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "StepItemRegistration.razor",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepItemRegistration.razor",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAUwIQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T05:25:15.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T05:25:15.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 13,
               "Title": "StepInventoryWork.razor.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor.cs",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor.cs",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor.cs",
-              "ViewState": "AgIAAOgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAiwBAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T04:05:52.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 16,
               "Title": "StepInventoryWork.razor",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepInventoryWork.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-09T04:05:49.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 15,
               "Title": "Monitor.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
               "ToolTip": "C:\\Users\\G2507\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFQAAAACAAAAAQAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAawFcAAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T07:21:13.524Z"
             }
           ]
         },
         {
-          "DockedWidth": 45,
+          "DockedWidth": 226,
           "SelectedChildIndex": 9,
           "Children": [
             {
@@ -497,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "CompDropDownDataGrid.razor.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Shared\\CompDropDownDataGrid.razor.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Shared\\CompDropDownDataGrid.razor.cs",
@@ -505,12 +646,11 @@
               "RelativeToolTip": "ExpressionDBBlazorShared\\Shared\\CompDropDownDataGrid.razor.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T02:24:34.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T02:24:34.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\AspireAppHost\\appsettings.json",
               "RelativeDocumentMoniker": "AspireAppHost\\appsettings.json",
@@ -518,25 +658,23 @@
               "RelativeToolTip": "AspireAppHost\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T01:32:19.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:32:19.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "StepGoodsReceipt.razor",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor",
               "RelativeToolTip": "ExpressionDBBlazorShared\\Pages\\StepGoodsReceipt.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-10T01:19:49.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T01:19:49.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "ExpressionDBWebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
               "RelativeDocumentMoniker": "ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
@@ -544,12 +682,11 @@
               "RelativeToolTip": "ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-08T06:53:10.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T06:53:10.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ExpressionDBWebAPI\\appsettings.json",
@@ -557,25 +694,24 @@
               "RelativeToolTip": "ExpressionDBWebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-06T10:12:18.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T10:12:18.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
               "RelativeDocumentMoniker": "ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
               "ToolTip": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
               "RelativeToolTip": "ExpressionDBBlazorWasmApp\\wwwroot\\appsettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAABMwAUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-06T10:12:06.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "Microsoft.NET.Sdk.StaticWebAssets.References.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.References.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.References.targets",
@@ -587,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "IPlatformNameProvider.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
               "RelativeDocumentMoniker": "ExpressionDBBlazorShared\\IPlatformNameProvider.cs",
@@ -599,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBWebAPI\\bin\\Release\\net8.0\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBWebAPI\\bin\\Release\\net8.0\\appsettings.json",
@@ -611,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\G2507\\OneDrive - \u682A\u5F0F\u4F1A\u793E\u7ACB\u82B1\u30A8\u30EC\u30C6\u30C3\u30AF\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Buppin-WebApp\\ExpressionDBCycleProcessApp\\Program.cs",
               "RelativeDocumentMoniker": "ExpressionDBCycleProcessApp\\Program.cs",

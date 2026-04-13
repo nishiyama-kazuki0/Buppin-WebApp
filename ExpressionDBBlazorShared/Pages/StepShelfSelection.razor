@@ -17,9 +17,9 @@
     <RadzenCard>
         <RadzenStack Orientation="Orientation.Vertical" AlignItems="AlignItems.Normal" JustifyContent="JustifyContent.Start" Wrap="FlexWrap.NoWrap" Gap="5">
 
-            <HtTitleValueTextBox Focus="true" Disabled="false" Title="実施棚番" @bind-Value="@(((StepItemMovePalletViewModel)PageVm!).棚番)"
-            Change="@棚"
-            MaxLength="SharedConst.LEN_PALLET_NO" Required="false" RegexPattern="@SharedConst.STR_VARIDATE_PALLETE_NO" />
+             <HtTitleValueTextBox Id="棚番" NextId="棚番" Focus="true" Disabled="false" Title="実施棚番" @bind-Value="@(((StepItemMovePalletViewModel)PageVm!).棚番)"
+                                 Change="@棚"
+                                 MaxLength="SharedConst.LEN_PALLET_NO" Required="false" RegexPattern="@SharedConst.STR_VARIDATE_PALLETE_NO" />
 
         </RadzenStack>
     </RadzenCard>

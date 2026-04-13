@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressionDBCycleProcessApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0a33e7dbce6b8a93556eae4664e418818dac2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44a5989d4245b24d0be089054e2b7db25d8fcfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressionDBCycleProcessApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressionDBCycleProcessApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
