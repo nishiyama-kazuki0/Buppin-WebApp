@@ -11,6 +11,7 @@
 
 @*TODO 可能であれば、ダイアログ用のrazorを作成して、初期ページはindex.razorではなくそっちを参照したい*@
 @*ログインダイアログ*@
+@*立花のロゴに変更*@
 <RadzenBody style="margin-left: 0px" Visible=@(!IsLogin)>
     <ChildContent>
         <div class="row justify-content-center">
@@ -18,7 +19,7 @@
                 <RadzenCard class="d-flex p-0 rz-border-radius-4 rz-shadow-10 " Style="margin-top: 5%; width: 100%; flex-direction: column; overflow: hidden; align-items: stretch;">
                     <RadzenCard Class="rz-shadow-0 rz-border-radius-0 rz-background-color-info p-5" style="text-align: center;">
                         <RadzenStack AlignItems="AlignItems.Center" >
-                            <RadzenImage Path="_content/ExpressionDBBlazorShared/WMS_logo.jpg" Style="width: 18rem;" />
+                            <RadzenImage Path="_content/ExpressionDBBlazorShared/立花ロゴ.jpg" Style="width: 18rem;" />
                         </RadzenStack>
                         <RadzenStack AlignItems="AlignItems.Center">
                             <RadzenText TextStyle="TextStyle.DisplayH3" TagName="TagName.H2" Class="rz-color-white mb-0">WMS Login</RadzenText>
