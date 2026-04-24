@@ -123,7 +123,7 @@ public partial class ButtonFuncRadzen : IAsyncDisposable
     [Parameter]
     public string HT_Button2BackgroundColor { get; set; } = "#D32020";
     [Parameter]
-    public string HT_Button3BackgroundColor { get; set; } = "#FFA500";
+    public string HT_Button3BackgroundColor { get; set; } = "#D32020";
     [Parameter]
     public string HT_Button4BackgroundColor { get; set; } = "#000000";
 
